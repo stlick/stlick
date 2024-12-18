@@ -42,11 +42,11 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/igomest">
-    <img width="390em" src="https://github-readme-stats.vercel.app/api?username=igomest&show_icons=true&theme=vision-friendly-dark" alt="ivan stats"/>
+  <a href="https://github.com/stlick">
+    <img width="390em" src="https://github-readme-stats.vercel.app/api?username=stlick&show_icons=true&theme=vision-friendly-dark" alt="ivan stats"/>
   </a>
-  <a href="https://github.com/igomest">
-    <img width="328em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igomest&layout=compact&theme=vision-friendly-dark" alt="ivan most languages"/>
+  <a href="https://github.com/stlick">
+    <img width="328em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stlick&layout=compact&theme=vision-friendly-dark" alt="ivan most languages"/>
   </a>
 </div>
 
